@@ -1,4 +1,4 @@
-# Cab-Transport-Ananlysis
+# Cab-Transport-Analysis
 Analysis of New York Green Taxi Data for Business Intelligence
 
 Anyone who want to access these sheets on Tableau Public can email me. 
